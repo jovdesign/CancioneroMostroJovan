@@ -443,11 +443,11 @@ footer a{
 
     #Inicio .bloque-inicio{
         position: absolute;
-        top: 5%;
-        left: 230%;
+        top: 10%;
+        left: 80%;
         width: 500px;
         text-align: center;
-        margin-left: -100px;
+        margin-left: -500px;
     }
     
     #Inicio .bloque-scroll{
